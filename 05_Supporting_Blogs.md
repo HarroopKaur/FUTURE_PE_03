@@ -11,7 +11,7 @@ Benefits of AI Automation for Small Businesses in Brampton: Save Time, Reduce Co
 
 ## Outline
 
-# Benefits of AI Automation for Small Businesses in Brampton
+## Benefits of AI Automation for Small Businesses in Brampton
 
 ## What is AI Automation for Small Businesses?
 - Simple explanation of AI automation  
@@ -45,7 +45,7 @@ Benefits of AI Automation for Small Businesses in Brampton: Save Time, Reduce Co
 
 ### Full Blog Content
 
-# Benefits of AI Automation for Small Businesses in Brampton: Save Time, Reduce Costs, and Grow Faster
+## Benefits of AI Automation for Small Businesses in Brampton: Save Time, Reduce Costs, and Grow Faster
 
 Running a small business in Brampton requires managing multiple tasks at once — from customer communication to operations and marketing. Many business owners find themselves spending hours on repetitive work that slows down growth.
 
@@ -168,7 +168,7 @@ AI Chatbots for Customer Support in Brampton: Improve Response Time and Never Mi
 
 ## Outline
 
-# AI Chatbots for Customer Support in Brampton
+## AI Chatbots for Customer Support in Brampton
 
 ## What Are AI Chatbots?
 - Definition of AI chatbots  
@@ -205,7 +205,7 @@ AI Chatbots for Customer Support in Brampton: Improve Response Time and Never Mi
 
 ### Full Blog Content
 
-# AI Chatbots for Customer Support in Brampton: Improve Response Time and Never Miss a Lead
+## AI Chatbots for Customer Support in Brampton: Improve Response Time and Never Miss a Lead
 
 In today’s fast-paced business environment, customers expect quick responses and seamless communication. For many small businesses in Brampton, keeping up with customer inquiries can be challenging.
 
