@@ -445,15 +445,15 @@ Cost of AI Automation for Small Businesses in Brampton: What to Expect and How t
 ## What Affects the Cost of AI Automation?
 
 ### Type of Automation  
-### Business Size and Needs  
-### Tools and Integration  
-### Customization Level  
+- Business Size and Needs  
+- Tools and Integration  
+- Customization Level  
 
 ## Average Cost of AI Automation for Small Businesses
 
-### Low-Cost Solutions  
-### Mid-Range Automation  
-### Advanced Custom Solutions  
+- Low-Cost Solutions  
+- Mid-Range Automation  
+- Advanced Custom Solutions  
 
 ## Is AI Automation Worth the Investment?
 - ROI discussion  
